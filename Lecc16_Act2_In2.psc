@@ -4,7 +4,7 @@ Algoritmo Lecc16_Act2_Inc2
 		Dimension numerosEnteros[8]
 		
 		Para indice = 1 Hasta 8 Hacer
-			Escribir "Ingrese el número ", indice
+			Escribir "Ingrese el nÃºmero ", indice
 			Leer numerosEnteros[indice]
 			
 			Si indice = 1 Entonces
@@ -27,8 +27,8 @@ Algoritmo Lecc16_Act2_Inc2
 			
 		FinPara
 		
-		Escribir "El número mayor es: ", numeroMayor
+		Escribir "El nÃºmero mayor es: ", numeroMayor
 		
-		Escribir "Se encuentra en la posición: ", posicionMayor
+		Escribir "Se encuentra en la posiciÃ³n: ", posicionMayor
 		
 FinAlgoritmo
