@@ -8,7 +8,7 @@ Algoritmo Lecc16_Act3_Inc2
 		existeRepetido <- Falso
 		
 		Para indice <- 1 Hasta 15 Hacer
-			Escribir "Ingrese el número ", indice, ": "
+			Escribir "Ingrese el nÃºmero ", indice, ": "
 			Leer numerosEnteros[indice]
 		FinPara
 		
@@ -23,9 +23,9 @@ Algoritmo Lecc16_Act3_Inc2
 		FinPara
 		
 		Si existeRepetido Entonces
-			Escribir "Si existe al menos un número repetido."
+			Escribir "Si existe al menos un nÃºmero repetido."
 		SiNo
-			Escribir "No existe ningún número repetido."
+			Escribir "No existe ningÃºn nÃºmero repetido."
 		FinSi
 		
 FinAlgoritmo
